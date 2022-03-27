@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 25fbd1fd-0374-996c-f551-1b1dd2edb624
 resourcetype: Document
 title: MIT21M_380S11_notes.pdf
 uid: 244daae2-88cd-582c-5a09-7c9c03ba2b7f
