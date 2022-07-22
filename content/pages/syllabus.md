@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5dac9c47-f937-9d1a-8d1a-cebb4df9cdd4
 ---
@@ -55,7 +57,7 @@ RECOMMENDATIONS\*\*
 {{< tdopen >}}
 Small portable amplifier, such as a portable keyboard-style amplifier or monitor
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Amps made for guitars are not recommended for use with a laptop (such amps often are designed for quieter signals, have distortion and other effects-built in, and generally only support one channel input). The following are in order of preference:
 
 1.  Phonic MK15 Keyboard Amp with 3.5mm stereo to RCA male cable (at least 6 feet long).
