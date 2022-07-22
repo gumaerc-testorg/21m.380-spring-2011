@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-380-music-and-technology-live-electronics-performance-practices-spring-2011/8c31c5d4d0efeaa67d5e1738018b5593_hlXjQ4qtaYU.srt
+file: /courses/21m-380-music-and-technology-live-electronics-performance-practices-spring-2011/8c31c5d4d0efeaa67d5e1738018b5593_hlXjQ4qtaYU.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
