@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to internet resources and journals on electronic
+  music.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
