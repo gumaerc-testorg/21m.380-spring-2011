@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the class assignments and audio recordings from
+  the final class concert.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -14,15 +16,15 @@ Pd Tutorials
 
 Pd Tutorials are short Pd programming tasks, to be submitted as complete Pd files. Written comments and answers to questions must be included as comments. Each tutorial will be reviewed at the beginning of class on the due date.
 
-Descriptions of each tutorial may be found in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) for the session preceding their due date:
+Descriptions of each tutorial may be found in the {{% resource_link 25fbd1fd-0374-996c-f551-1b1dd2edb624 "lecture notes" %}} for the session preceding their due date:
 
-*   Pd Tutorial 1: see end of Lecture Notes, Session 2 ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec02))
+*   Pd Tutorial 1: see end of Lecture Notes, Session 2 ({{% resource_link 2ff76412-ddea-c030-9512-73f85d08b798 "PDF" %}})
   
-*   Pd Tutorial 2: see end of Lecture Notes, Session 3 ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec03))
+*   Pd Tutorial 2: see end of Lecture Notes, Session 3 ({{% resource_link 9bb883ab-523a-6728-9056-67e5a637f330 "PDF" %}})
   
-*   Pd Tutorial 3: see end of Lecture Notes, Session 4 ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec04))
+*   Pd Tutorial 3: see end of Lecture Notes, Session 4 ({{% resource_link f618679e-fa98-00ae-85ed-349bdf8862d6 "PDF" %}})
   
-*   Pd Tutorial 4: see end of Lecture Notes, Session 6 ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec06))
+*   Pd Tutorial 4: see end of Lecture Notes, Session 6 ({{% resource_link 15cbc256-b82d-4584-2800-c86d227c6986 "PDF" %}})
 
 Controller/Interface/Instrument Design 1
 ----------------------------------------

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on objectives, meeting times, required materials, resources, assignments, and discussions.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -32,7 +34,7 @@ This course examines the history, techniques, and aesthetics of mechanical and c
 
 Collins, N. _Handmade Electronic Music: The Art of Hardware Hacking._ 2nd ed. New York, NY: Routledge/Taylor & Francis, 2009. ISBN: 9780415998734.
 
-Additional readings are comprised of various papers, articles, and book chapters. See the [Readings and Listening]({{< baseurl >}}/pages/readings-and-listening) page for a complete list.
+Additional readings are comprised of various papers, articles, and book chapters. See the {{% resource_link 8d15b99a-6e29-4afe-178b-b64127ade25b "Readings and Listening" %}} page for a complete list.
 
 ### Required Materials
 
@@ -102,7 +104,7 @@ This course will use several free, cross-platform, stand-alone, or web-based app
 *   PureData
 *   SuperCollider
 
-Assignments, projects, and demonstrations may be facilitated by the use and installation of these software [tools]({{< baseurl >}}/pages/tools).
+Assignments, projects, and demonstrations may be facilitated by the use and installation of these software {{% resource_link e96bb94d-e1e3-4147-68da-2bfd5ce6d15b "tools" %}}.
 
 ### Reference Materials
 
