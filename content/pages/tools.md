@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides links to free software tools used for the class,
+  and a site that provides free downloads of high quality audio files.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

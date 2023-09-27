@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with the lecture
+  notes from each session.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,9 +12,9 @@ uid: 25fbd1fd-0374-996c-f551-1b1dd2edb624
 For your convenience, the course notes are provided in two formats:
 
 *   One file (chapter) per class session, in the table below; plus these files  
-    *   Cover & table of contents ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec_title_tc))
-    *   References ([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec_ref))
-*   All notes in single file, 219 pages ([PDF - 7.1MB]({{< baseurl >}}/resources/mit21m_380s11_notes))
+    *   Cover & table of contents ({{% resource_link b375ebde-fcce-1f4b-aa62-d8be8dba26be "PDF" %}})
+    *   References ({{% resource_link bb29e1b2-cfec-75fd-b5fd-4f518e0a8ffc "PDF" %}})
+*   All notes in single file, 219 pages ({{% resource_link 244daae2-88cd-582c-5a09-7c9c03ba2b7f "PDF - 7.1MB" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -38,7 +40,7 @@ LECTURE NOTES
 Foundations: Live Electronics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.5MB]({{< baseurl >}}/resources/mit21m_380s11_lec01))
+({{% resource_link 2bba7193-6960-90c1-f6e4-41557bfd5a4b "PDF - 1.5MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +56,7 @@ Pd Tutorial 1
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec02))
+({{% resource_link 2ff76412-ddea-c030-9512-73f85d08b798 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +72,7 @@ Pd Tutorial 2
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec03))
+({{% resource_link 9bb883ab-523a-6728-9056-67e5a637f330 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +88,7 @@ Pd Tutorial 3
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec04))
+({{% resource_link f618679e-fa98-00ae-85ed-349bdf8862d6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +100,7 @@ Pd Tutorial 3
 Workshop: Performance and Improvisation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec05))
+({{% resource_link 65ee4b22-3cdd-fd46-be59-3eed197addc2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +116,7 @@ Pd Tutorial 4
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec06))
+({{% resource_link 15cbc256-b82d-4584-2800-c86d227c6986 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +128,7 @@ Pd Tutorial 4
 Workshop: Performance and Improvisation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec07))
+({{% resource_link 4f8f0731-9ea8-e513-7b61-352dd47b6a28 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +140,7 @@ Workshop: Performance and Improvisation
 Practices: The Early History of Live Electronics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec08))
+({{% resource_link 8cc99d94-a866-de7a-d8fb-9e7846aa5deb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +152,7 @@ Practices: The Early History of Live Electronics
 Practices: Extending Common Physical Controllers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec09))
+({{% resource_link 4952e083-fa08-a213-0230-5b400fd8c170 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +164,7 @@ Practices: Extending Common Physical Controllers
 Workshop: Performance and Improvisation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec10))
+({{% resource_link 6c68fdae-f060-83ae-0971-8dd146cdaae1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +176,7 @@ Workshop: Performance and Improvisation
 Practices: Touch Interfaces and OpenSoundControl
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec11))
+({{% resource_link 4b5db695-5e30-b89d-6b2c-99d510caec58 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +188,7 @@ Practices: Touch Interfaces and OpenSoundControl
 Practices: Laptops and Laptop Orchestras
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec12))
+({{% resource_link 388194b7-20a7-503d-5201-19ef278aa793 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +200,7 @@ Practices: Laptops and Laptop Orchestras
 Workshop: Performance and Improvisation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec13))
+({{% resource_link 3f3cd0b3-f404-1e88-02f3-87634430a873 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +212,7 @@ Workshop: Performance and Improvisation
 Practices: Analog Electronics and Circuit Bending
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec14))
+({{% resource_link 2a5a2177-5717-ad45-b02b-6cea8ed3a872 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +224,7 @@ Practices: Analog Electronics and Circuit Bending
 Practices: Electronics and Sensors
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec15))
+({{% resource_link 462eefa2-2415-ea90-dc46-d9c2b19439b4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +236,7 @@ Practices: Electronics and Sensors
 Workshop: Performance and Improvisation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec16))
+({{% resource_link 3db4ca7d-5aac-1b36-5d55-9621f64be272 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +248,7 @@ Workshop: Performance and Improvisation
 Practices: Approaches to Composing Improvisations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2MB]({{< baseurl >}}/resources/mit21m_380s11_lec17))
+({{% resource_link 8f64c4a2-4d74-058c-b01c-2249a16625f9 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +260,7 @@ Practices: Approaches to Composing Improvisations
 Practices: Timing and Networking
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec18))
+({{% resource_link 53f3605b-6c3d-4d69-bd6b-8fa963376349 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,7 +272,7 @@ Practices: Timing and Networking
 Workshop: Performance and Improvisation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec19))
+({{% resource_link c8b4c7d4-a512-b67d-a46e-fecdf26acc1d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -282,7 +284,7 @@ Workshop: Performance and Improvisation
 Workshop: Performance and Improvisation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec20))
+({{% resource_link b8c32a2d-fda1-743a-dd93-bc2caa20af03 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +296,7 @@ Workshop: Performance and Improvisation
 Practices: Novel and Custom Interfaces
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec21))
+({{% resource_link 4b796f3f-6701-0290-c8e1-dc9860e80156 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,7 +308,7 @@ Practices: Novel and Custom Interfaces
 Workshop: Performance and Improvisation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec22))
+({{% resource_link c62e65fe-4ec6-fee2-0482-10fe3ccc0b1f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,7 +320,7 @@ Workshop: Performance and Improvisation
 Practices: Live Coding, Live Algorithms, and Generative Techniques
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec23))
+({{% resource_link 52d16c39-efc8-3370-877c-b54f4210a837 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -329,12 +331,12 @@ Practices: Live Coding, Live Algorithms, and Generative Techniques
 {{< tdopen >}}
 Class concert performance
 
-See [assignments]({{< baseurl >}}/pages/assignments) page for video & audio recordings
+See {{% resource_link ccc9e7a4-0efe-c3f3-898c-c317caa66fdc "assignments" %}} page for video & audio recordings
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21m_380s11_lec24))
+({{% resource_link 9160cc03-8c3c-cbc0-c445-641beeea01cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
