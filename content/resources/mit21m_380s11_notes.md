@@ -4,6 +4,7 @@ description: 'This resource contains information related to foundations: live el
   foundations: envelopes, filters, modulation, and mixing, and workshop: performance
   and improvisation.'
 file: /courses/21m-380-music-and-technology-live-electronics-performance-practices-spring-2011/244daae288cd582c5a097c9c03ba2b7f_MIT21M_380S11_notes.pdf
+file_size: 7461161
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
