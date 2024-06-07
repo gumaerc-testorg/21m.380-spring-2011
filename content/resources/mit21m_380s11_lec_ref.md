@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains references to the live electronics performance
   practices.
 file: /courses/21m-380-music-and-technology-live-electronics-performance-practices-spring-2011/bb29e1b2cfec75fdb5fd4f518e0a8ffc_MIT21M_380S11_lec_ref.pdf
+file_size: 143941
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
