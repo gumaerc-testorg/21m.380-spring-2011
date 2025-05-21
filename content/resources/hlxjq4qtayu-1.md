@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21m-380-music-and-technology-live-electronics-performance-practices-spring-2011/aaec501e794176b63282403caac088cd_hlXjQ4qtaYU.pdf
+file: /courses/21m-380-music-and-technology-live-electronics-performance-practices-spring-2011/aaec501e794176b63282403caac088cd_hlXjQ4qtaYU.pdf
 file_size: 28090
 file_type: application/pdf
 learning_resource_types: []
