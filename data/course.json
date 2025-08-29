@@ -56,12 +56,13 @@
   "learning_resource_types": [
     "Demonstration Videos",
     "Lecture Notes",
-    "Music",
+    "Music Audio",
     "Media Assignments with Examples",
     "Presentation Assignments",
     "Programming Assignments"
   ],
   "site_uid": "f0bd8995-9deb-400c-a5a2-b2767c7e1841",
   "site_short_id": "21m.380-spring-2011",
+  "site_url_path": "courses/21m-380-music-and-technology-live-electronics-performance-practices-spring-2011",
   "title": "Course Metadata"
 }
