@@ -111,7 +111,7 @@ Assignments, projects, and demonstrations may be facilitated by the use and inst
 These reference works may be useful for terms, people, and concepts presented in this course.
 
 1.  Oxford Music Online/Grove Music Online \[subscription service\]
-2.  [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262680820) Roads, C. [_The Computer Music Tutorial_](https://mitpress.mit.edu/9780262680820). Cambridge, MA: MIT Press, 1996. ISBN: 9780262680820.
+2.  {{% resource_link "31db002c-c606-4a4b-8746-862634fde9ff" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Roads, C. {{% resource_link "31db002c-c606-4a4b-8746-862634fde9ff" "_The Computer Music Tutorial_" %}}. Cambridge, MA: MIT Press, 1996. ISBN: 9780262680820.
 
 ### Assignments
 
@@ -167,7 +167,7 @@ _Assignment Submission and Late Work_
 
 All written assignments, unless otherwise indicated, must be submitted digitally via email attachment. Upon receipt by the instructor students will receive an email confirmation within twelve hours. If a student does not receive an email confirmation, it is the student's responsibility to contact the instructor and/or re-send the assignment.
 
-Digital media assignments, when required, must be submitted (if smaller than 10 MB) via email attachment or (if larger than 10 MB) via a digital delivery service like Pando (free [Basic Version](http://pando.com/)) or YouSendIt (free Lite [account](https://www.hightail.com/)). Upon receipt by the instructor students will receive an email confirmation within twelve hours. If a student does not receive email confirmation, it is the student's responsibility to contact the instructor and/or re-send the assignment.
+Digital media assignments, when required, must be submitted (if smaller than 10 MB) via email attachment or (if larger than 10 MB) via a digital delivery service like Pando (free {{% resource_link "a521d9a7-84c0-4ced-b904-4dafeb6adf29" "Basic Version" %}}) or YouSendIt (free Lite {{% resource_link "7e1dc6e9-9973-45c7-9905-86cd1e096f31" "account" %}}). Upon receipt by the instructor students will receive an email confirmation within twelve hours. If a student does not receive email confirmation, it is the student's responsibility to contact the instructor and/or re-send the assignment.
 
 Late assignments will receive a grade reduction. Students are encouraged to submit all assignments, even if late. Assignments turned in within seven days after the due date will be deducted 20 percent of the total points possible. Assignments will not be accepted one week after the due date or after the last scheduled course meeting.
 
@@ -304,13 +304,13 @@ Participation
 
 {{< tableclose >}}
 
-Grading policies, the use of grade modifiers, and additional grades will be given in accordance with policies set forth in the MIT Course Bulletin, [Academic Procedures and Institute Regulations](http://catalog.mit.edu/mit/procedures/). Grades are given on written assignments based on the following criteria. An _F_ is given for incorrect, incomplete, and unsatisfactory work that demonstrates neither effort nor critical thought. A _D_ is given for incomplete and unsatisfactory work that demonstrates some effort and minimal critical thought. A _C_ is given for complete and satisfactory work with little or no creative or critical thought. A _B_ is given for thorough, well-written, and well-presented work with some creative and critical thought. An _A_ is given for substantial and creative original work and critical insight, executed without flaw.
+Grading policies, the use of grade modifiers, and additional grades will be given in accordance with policies set forth in the MIT Course Bulletin, {{% resource_link "90d86f3b-0a44-447a-876d-43e8e7051f4a" "Academic Procedures and Institute Regulations" %}}. Grades are given on written assignments based on the following criteria. An _F_ is given for incorrect, incomplete, and unsatisfactory work that demonstrates neither effort nor critical thought. A _D_ is given for incomplete and unsatisfactory work that demonstrates some effort and minimal critical thought. A _C_ is given for complete and satisfactory work with little or no creative or critical thought. A _B_ is given for thorough, well-written, and well-presented work with some creative and critical thought. An _A_ is given for substantial and creative original work and critical insight, executed without flaw.
 
 Grades will be reduced for poor writing and/or an unreasonable number of grammatical errors. Grades are given for class participation based on the quality, relevance, creativity, and insight of aural questions, answers, and discussion points based on assignments, lectures, in-class demonstrations, or other student's work. As much as possible, participation grades follow the standards for written assignments as presented above.
 
 ### Academic Integrity, Intellectual Property, and Plagiarism
 
-Students are encouraged to discuss course content with other students taking the course. Each student must, however, produce their own original work. Students are expected to observe the highest levels of academic integrity. All cases of academic dishonesty will be taken very seriously. For more information on academic integrity, citing sources, and plagiarism see [Academic Integrity at MIT](http://web.mit.edu/academicintegrity).
+Students are encouraged to discuss course content with other students taking the course. Each student must, however, produce their own original work. Students are expected to observe the highest levels of academic integrity. All cases of academic dishonesty will be taken very seriously. For more information on academic integrity, citing sources, and plagiarism see {{% resource_link "c7bd6dc2-6bbe-447b-a428-b7ab391210b4" "Academic Integrity at MIT" %}}.
 
 Assignments may involve using digital media or intellectual property produced by others. Materials used in such situations, and provided by the instructor or obtained from the internet, must be either in the public domain or licensed specifically for shared use. Students are expected to follow all relevant copyright and intellectual property laws.
 
@@ -318,7 +318,7 @@ Plagiarism includes using the words, ideas, or creative works of another writer 
 
 In the case of unattributed and/or suspicious student work, software may be used to search the internet, literature archives, and current and past assignments for possibly-plagiarized material.
 
-Suspected cases of academic misconduct will be handled according to section 10.2 of [MIT Policies and Procedures](http://web.mit.edu/policies/10/10.2.html).
+Suspected cases of academic misconduct will be handled according to section 10.2 of {{% resource_link "26806739-2d80-416a-9bbc-5f2e372e6137" "MIT Policies and Procedures" %}}.
 
 Unauthorized use and distribution of student-recorded or transcribed course lectures or materials, without written permission of the instructor, is prohibited.
 
