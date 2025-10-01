@@ -12,21 +12,21 @@ Compiled by Peter Munstedt, MIT Music Librarian. (Courtesy of Peter Munstedt. Us
 
 ### Internet Resources
 
-- [EARS: ElectroAcoustic Resource Site](http://ears.huma-num.fr/)   
+- {{% resource_link "5d13a387-d040-4c7c-83f5-8eb7b8a3bcbc" "EARS: ElectroAcoustic Resource Site" %}}   
     *From the Music, Technology and Innovation Research Group at De Montfort University.*
-- [The EMF Institute](http://www.emf.org/)   
+- {{% resource_link "933a3399-fb9d-420d-929f-6bed7666789d" "The EMF Institute" %}}   
     *Website of the Electronic Music Foundation.*
-- [History of electronic music](http://www.phinnweb.org/history)   
+- {{% resource_link "bdfc2da4-5717-4365-8073-bff2545919c4" "History of electronic music" %}}   
     *Huge links collection from pHinnWeb.*
-- [Electronic Music](https://libraries.indiana.edu/music)   
+- {{% resource_link "cbadf903-3cd1-4eea-a395-f739f0dc8253" "Electronic Music" %}}   
     *From the William and Gayle Cook Music Library, Indiana University School of Music.*
-- [Computer Music links](http://www.computermusic.org/page/35/)   
+- {{% resource_link "29c2d055-4e56-4cb6-8060-ac01f0e22be8" "Computer Music links" %}}   
     *From the International Computer Music Association.*
-- [SEAMUS](https://www.seamusonline.org/)   
+- {{% resource_link "962dbdf8-3c61-4fbe-8c02-44e0a260242d" "SEAMUS" %}}   
     *Society for Electro-Acoustic Music in the United States.*
 - Computer Music, MIDI, etc.   
     *From the Sibelius Adacemy.*
-- [Oxford Music Online](http://www.oxfordmusiconline.com/) (subscription services)   
+- {{% resource_link "020ab2f9-ed4a-448c-b896-77869e649b05" "Oxford Music Online" %}} (subscription services)   
       
     - Grove Music Online
     - Oxford Dictionary of Music
@@ -34,12 +34,12 @@ Compiled by Peter Munstedt, MIT Music Librarian. (Courtesy of Peter Munstedt. Us
 
 ### Journals
 
-- [Computer Music Journal](http://library.mit.edu/item/000294766)
-- [Electronic Musician](http://library.mit.edu/item/000350194)
-- [Journal of New Music Research](http://library.mit.edu/item/000695165)
-- [Interface](http://library.mit.edu/item/000291757)
-- [Leonardo Music Journal](http://library.mit.edu/item/000659825)
-- [Organised Sound](http://library.mit.edu/item/000806911)
-- [Journal SEAMUS](http://library.mit.edu/item/000660625)
-- [Synth Zone](http://www.synthzone.com/mags.htm)   
+- {{% resource_link "82a21fa1-7c06-4033-9374-62fe9440ff7a" "Computer Music Journal" %}}
+- {{% resource_link "44afd051-adfd-4351-9628-bb2c4225e34e" "Electronic Musician" %}}
+- {{% resource_link "0803dee3-fb93-42b1-8145-0ae8ad8fa8f5" "Journal of New Music Research" %}}
+- {{% resource_link "5455ae70-f2fb-4d71-af22-c54c570374e7" "Interface" %}}
+- {{% resource_link "299ec38e-470d-4eae-b9d3-1d70bdafa0de" "Leonardo Music Journal" %}}
+- {{% resource_link "c26099e8-4585-4f5b-a14c-1d5e0bf336cf" "Organised Sound" %}}
+- {{% resource_link "e76cfbbf-7fab-4bdd-bee1-c9b066136e12" "Journal SEAMUS" %}}
+- {{% resource_link "7ac30385-6b62-460a-9fc9-2f7e937e8e59" "Synth Zone" %}}   
     *Links to magazine websites.*
